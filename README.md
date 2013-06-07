@@ -18,7 +18,7 @@ Depends
 
 Depends on JSHint (https://github.com/jshint/jshint) which should be installed with npm usign option -g. 
 
-E.g. ´´$ sudo npm install -g jshint´´
+E.g. `$ sudo npm install -g jshint`
 
 
 Credits
