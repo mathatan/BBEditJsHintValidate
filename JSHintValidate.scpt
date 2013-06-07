@@ -7,8 +7,7 @@
 property jshintref : "/usr/bin/env PATH=/usr/local/bin jshint "
 
 (* My version of jshint reports errors something like:
- #1 Unexpected dangling '_' in '_'.
-    _ = require('underscore'); // Line 2, Pos 5
+ someFile.js: line 14, col 39, Missing space after ';'.
 *)
 
 -- Function to get the line number
